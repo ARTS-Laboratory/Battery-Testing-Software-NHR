@@ -1,5 +1,5 @@
 # Battery-Testing-Software-NHR
-This repo holds the high-level and stable control code for the NHR systems. The ITECH system code can be found [here](https://github.com/ARTS-Laboratory/Battery-Testing-Software-ITECH), and the original and deprecated codebase can be found [here]([https://github.com/ARTS-Laboratory/Battery-Testing-Software-ITECH](https://github.com/ARTS-Laboratory/Battery-Testing-Software)).
+This repo holds the high-level and stable control code for the NHR systems. The ITECH system code can be found [here](https://github.com/ARTS-Laboratory/Battery-Testing-Software-ITECH), and the original and deprecated codebase can be found [here](https://github.com/ARTS-Laboratory/Battery-Testing-Software).
 
 ## How to Use This Repo (Common Guidance)
 These repositories provide building blocks (drivers, device interfaces, and example control apps) for running battery cyclers. They’re meant to be built upon for your lab/project setup.

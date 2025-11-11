@@ -337,7 +337,6 @@
 				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
 			</Item>
 			<Item Name="Chrg_Dschrg.vi" Type="VI" URL="../../Device-Interface-Layer/Chrg_Dschrg.vi"/>
-			<Item Name="Default Instrument Setup.vi" Type="VI" URL="../../Drivers-IT-M3400/Private/Default Instrument Setup.vi"/>
 			<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../Drivers-Essentials/error.llb/Error Cluster From Error Code.vi"/>
 			<Item Name="Fetch (Ave Current).vi" Type="VI" URL="../../Drivers-NHR-9200/NHR/Public/Data/Low Level/Fetch (Ave Current).vi"/>
 			<Item Name="Fetch (Ave True Power).vi" Type="VI" URL="../../Drivers-NHR-9200/NHR/Public/Data/Low Level/Fetch (Ave True Power).vi"/>
@@ -352,7 +351,6 @@
 			<Item Name="Filestructure.vi" Type="VI" URL="../../Device-Interface-Layer/Filestructure.vi"/>
 			<Item Name="Gen_Daq.vi" Type="VI" URL="../../Device-Interface-Layer/Gen_Daq.vi"/>
 			<Item Name="Get Project Library Version.vi" Type="VI" URL="../../vi.lib/Utility/Get Project Library Version.vi"/>
-			<Item Name="IT-M3400.lvlib" Type="Library" URL="../../Drivers-IT-M3400/IT-M3400.lvlib"/>
 			<Item Name="LVDateTimeRec.ctl" Type="VI" URL="../../vi.lib/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 			<Item Name="lvStorage.dll" Type="Document" URL="lvStorage.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -362,7 +360,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Parse Array Data.vi" Type="VI" URL="../../Drivers-NHR-9200/NHR/Private/Parse Array Data.vi"/>
-			<Item Name="Read Output.vi" Type="VI" URL="../../Drivers-IT-M3400/Public/Data/Read Output.vi"/>
 			<Item Name="Wait.vi" Type="VI" URL="../../Device-Interface-Layer/Wait.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

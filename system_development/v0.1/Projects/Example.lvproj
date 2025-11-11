@@ -10,9 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Chrg_Dschrg_new.vi" Type="VI" URL="../../Device-Interface-Layer/Chrg_Dschrg_new.vi"/>
-		<Item Name="Gen_Test_Single_Cell.vi" Type="VI" URL="../../../../../Desktop/Cebastione_files/Gen_Test_Single_Cell.vi"/>
-		<Item Name="NH Research Regenerative Test Series.lvlib" Type="Library" URL="../../Drivers-Essentials/NH Research Regenerative Test Series.lvlib"/>
+		<Item Name="Gen_Test_Single_Cell.vi" Type="VI" URL="../../Control-Applications/Gen_Test_Single_Cell.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="__closeStorageFromObject.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/Storage.llb/__closeStorageFromObject.vi"/>
@@ -338,7 +336,7 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
 			</Item>
-			<Item Name="BatterySettings.vi" Type="VI" URL="../../Device-Interface-Layer/BatterySettings.vi"/>
+			<Item Name="Chrg_Dschrg.vi" Type="VI" URL="../../Device-Interface-Layer/Chrg_Dschrg.vi"/>
 			<Item Name="Default Instrument Setup.vi" Type="VI" URL="../../Drivers-IT-M3400/Private/Default Instrument Setup.vi"/>
 			<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../Drivers-Essentials/error.llb/Error Cluster From Error Code.vi"/>
 			<Item Name="Fetch (Ave Current).vi" Type="VI" URL="../../Drivers-NHR-9200/NHR/Public/Data/Low Level/Fetch (Ave Current).vi"/>
@@ -359,12 +357,12 @@
 			<Item Name="lvStorage.dll" Type="Document" URL="lvStorage.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="NH Research Regenerative Test Series.lvlib" Type="Library" URL="../../Drivers-Essentials/NH Research Regenerative Test Series.lvlib"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Parse Array Data.vi" Type="VI" URL="../../Drivers-NHR-9200/NHR/Private/Parse Array Data.vi"/>
 			<Item Name="Read Output.vi" Type="VI" URL="../../Drivers-IT-M3400/Public/Data/Read Output.vi"/>
-			<Item Name="Set Sense Voltage On.vi" Type="VI" URL="../../Drivers-Essentials/Set Sense Voltage On.vi"/>
 			<Item Name="Wait.vi" Type="VI" URL="../../Device-Interface-Layer/Wait.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
